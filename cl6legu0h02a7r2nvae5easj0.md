@@ -23,8 +23,6 @@ I wanted to have some accountability and a way to note the things I learn daily 
 <ul>
 <li><a href="https://twitter.com/RingoMandingo93" target="_blank">🐦 Twitter</a></li>
 <li><a href="https://github.com/kdleonard93" target="_blank">💻 Github</a></li>
-</ul>
-<ul>
 <li><a href="https://discord.com/users/407639833146818570" target="_blank">👾 Discord</a></li>
 <li><a href="https://www.linkedin.com/in/kyle-leonard93/" target="_blank">👔 LinkedIn</a></li>
 </ul>
