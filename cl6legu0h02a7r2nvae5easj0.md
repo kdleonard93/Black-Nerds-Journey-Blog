@@ -20,7 +20,17 @@ I wanted to have some accountability and a way to note the things I learn daily 
 
 ### If you want to keep up with my progress or just want to add me as a peer, check out my social links below and give me a follow!
 
-- [Twitter]🐦 - (https://twitter.com/RingoMandingo93)
-- [Github]💻 - (https://github.com/kdleonard93)
-- [Discord]👾 - (https://discord.com/users/407639833146818570)
-- [LinkedIn]👔 - (https://www.linkedin.com/in/kyle-leonard93/)
+<div class="row">
+<div class="col-xs-12 col-sm-6">
+<ul>
+<li><a href="https://twitter.com/RingoMandingo93" target="_blank">🐦 Twitter</a></li>
+<li><a href="https://github.com/kdleonard93" target="_blank">💻 Github</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6">
+<ul>
+<li><a href="https://discord.com/users/407639833146818570" target="_blank">👾 Discord</a></li>
+<li><a href="https://www.linkedin.com/in/kyle-leonard93/" target="_blank">👔 LinkedIn</a></li>
+</ul>
+</div>
+</div>
