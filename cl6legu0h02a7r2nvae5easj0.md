@@ -17,3 +17,5 @@ I have lost a lot of the knowledge that I was able to pick up and retain when st
 I wanted to have some accountability and a way to note the things I learn daily to reference when I need to. I also feel like I'm not the only person with a similar struggle and yearning to be better and more accountable with their learning, so I would love for anyone to join this journey with me or even give advice in the comments. My first goal is to learn Python. I plan to use Udemy since the cost is very reasonable for courses, and it should be a good starting point for me to get the basics down. So I purchased two courses; [First course](https://www.udemy.com/course/complete-python-bootcamp/) is a "Zero To Hero" style course, and the [second course](https://www.udemy.com/course/100-days-of-code/) is a 100 days of code for Python which will give me daily projects to do to refine my skill. The goal is to go through all 100 days by doing at least a unit from each course per day starting tomorrow, August 9th, 2022. Today, I will just get myself prepped and set my learning schedule moving forward.
 
 ## Let Us Begin!
+
+%%[social]
