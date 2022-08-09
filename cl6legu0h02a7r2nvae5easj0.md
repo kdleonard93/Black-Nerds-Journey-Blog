@@ -19,13 +19,8 @@ I wanted to have some accountability and a way to note the things I learn daily 
 ## Let Us Begin!
 
 ### If you want to keep up with my progress or just want to add me as a peer, check out my social links below and give me a follow!
-<ul class="custom-style">
-    <li class="custom-style"><a href="https://twitter.com/RingoMandingo93" class="icon brands fa-twitter" target="_blank"><span
-                class="label">Twitter</span></a></li>
-    <li class="custom-style"><a href="https://www.linkedin.com/in/kyle-leonard93/" class="icon brands fa-linkedin"
-            target="_blank"><span class="label">LinkedIn</span></a></li>
-    <li class="custom-style"><a href="https://github.com/kdleonard93" class="icon brands fa-github" target="_blank"><span
-                class="label">Github</span></a></li>
-</ul>
-    <i class="fa-brands fa-discord"></i><a href="https://discord.com/users/407639833146818570"
-            target="_blank"><i class="fa-brands fa-discord"></i> <span class="label">Discord</span></a>
+
+[Twitter]🐦 - (https://twitter.com/RingoMandingo93)
+[Github]💻 - (https://github.com/kdleonard93)
+[Discord]👾 - (https://discord.com/users/407639833146818570)
+[LinkedIn]👔 - (https://www.linkedin.com/in/kyle-leonard93/)
