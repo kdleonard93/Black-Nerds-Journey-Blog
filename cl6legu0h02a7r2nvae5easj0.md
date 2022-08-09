@@ -27,5 +27,5 @@ I wanted to have some accountability and a way to note the things I learn daily 
     <li class="custom-style"><a href="https://github.com/kdleonard93" class="icon brands fa-github" target="_blank"><span
                 class="label">Github</span></a></li>
     <li class="custom-style"><a href="https://discord.com/users/407639833146818570" class="icon brands fa-discord"
-            target="_blank"><span class="label"></i> Discord</span></a></li>
+            target="_blank"><span class="label"><i class="fa-brands fa-discord"></i> Discord</span></a></li>
 </ul>
