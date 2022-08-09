@@ -18,7 +18,7 @@ I wanted to have some accountability and a way to note the things I learn daily 
 
 ## Let Us Begin!
 
-### If you want to keep up with my progress or just want to add me as a peer, check out my social links below and give me a follow!
+#### If you want to keep up with my progress or just want to add me as a peer, check out my social links below and give me a follow!
 
 <ul>
 <li><a href="https://twitter.com/RingoMandingo93" target="_blank">🐦 Twitter</a></li>
