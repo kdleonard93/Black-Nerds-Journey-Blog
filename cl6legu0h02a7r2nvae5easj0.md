@@ -28,4 +28,4 @@ I wanted to have some accountability and a way to note the things I learn daily 
                 class="label">Github</span></a></li>
 </ul>
     <a href="https://discord.com/users/407639833146818570" class="icon brands fa-discord"
-            target="_blank"><i class="fa-brands fa-discord"></i> <span class="label">Discord</span></a>
+            target="_blank"> <span class="label">Discord</span></a>
