@@ -23,4 +23,11 @@ I will say if I were to do this in JS, there would be a bit more syntax needed. 
 ### EOD
 That about wraps it up for Day 1. If anyone has taken these course and have notes or if anyone just wants to chime in, please do as I am open to any helpful corrections, tips, and lessons 😁.
 
-%%[social]
+#### If you want to keep up with my progress or just want to add me as a peer, check out my social links below and give me a follow!
+
+<ul>
+<li><a href="https://twitter.com/RingoMandingo93" target="_blank">🐦 Twitter</a></li>
+<li><a href="https://github.com/kdleonard93" target="_blank">💻 Github</a></li>
+<li><a href="https://discord.com/users/407639833146818570" target="_blank">👾 Discord</a></li>
+<li><a href="https://www.linkedin.com/in/kyle-leonard93/" target="_blank">👔 LinkedIn</a></li>
+</ul>
