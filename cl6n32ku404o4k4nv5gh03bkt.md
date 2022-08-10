@@ -20,7 +20,7 @@ print("your band name could be " + city + " " + pet)
 ```
 I will say if I were to do this in JS, there would be a bit more syntax needed. Other than that, I think Day 1's project was pretty straight forward and simple.
 
-###EOD
+### EOD
 That about wraps it up for Day 1. If anyone has taken these course and have notes or if anyone just wants to chime in, please do as I am open to any helpful corrections, tips, and lessons 😁.
 
 %%[social]
