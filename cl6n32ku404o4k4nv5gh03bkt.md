@@ -2,7 +2,7 @@
 
 ## I wanted to give a quick run down on how I'll be splitting up my daily blog
 
-In the first portion, I'll review what I learned from the '2022 Complete Python Bootcamp" course. I'll mainly touch base on the core concepts of the section and what I learned (or struggled to learn). The second portion of the blog will be dedicated to the project I completed in the sections of the "100 Days of Code: Python" course. This one should be short, considering it's just the basics.
+In the first portion, I'll review what I learned from the '2022 Complete Python Bootcamp" course. I'll mainly touch base on the core concepts of the section and what I learned (or struggled to learn). The second portion of the blog will be dedicated to the project I completed in the sections of the "100 Days of Code: Python" course. This read should be short, considering it's just covering the basics.
 
 ### Numbers, Variables, and Strings
 
