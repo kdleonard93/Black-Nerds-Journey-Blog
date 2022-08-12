@@ -73,32 +73,8 @@ So I plan to knock out this project before work tomorrow and will update this bl
 Got an update here for ya! Finished the Day 3 project and you can see the solution I had below 😁.
 
 ```
- print('''
-*******************************************************************************
-          |                   |                  |                     |
- _________|________________.=""_;=.______________|_____________________|_______
-|                   |  ,-"_,=""     `"=.|                  |
-|___________________|__"=._o`"-._        `"=.______________|___________________
-          |                `"=._o`"=._      _`"=._                     |
- _________|_____________________:=._o "=._."_.-="'"=.__________________|_______
-|                   |    __.--" , ; `"=._o." ,-"""-._ ".   |
-|___________________|_._"  ,. .` ` `` ,  `"-._"-._   ". '__|___________________
-          |           |o`"=._` , "` `; .". ,  "-._"-._; ;              |
- _________|___________| ;`-.o`"=._; ." ` '`."\` . "-._ /_______________|_______
-|                   | |o;    `"-.o`"=._``  '` " ,__.--o;   |
-|___________________|_| ;     (#) `-.o `"=.`_.--"_o.-; ;___|___________________
-____/______/______/___|o;._    "      `".o|o_.--"    ;o;____/______/______/____
-/______/______/______/_"=._o--._        ; | ;        ; ;/______/______/______/_
-____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____
-/______/______/______/______/____"=._o._; | ;_.--"o.--"_/______/______/______/_
-____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
-/______/______/______/______/______/______/______/______/______/______/_____ /
-*******************************************************************************
-''')
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
-
-# Write your code below this line 👇
 
 choice1 = input(
     'You\'re at a cross road. Where do you want to go? Type "left" or "right" \n').lower()
@@ -120,9 +96,12 @@ if choice1 == "left":
         print("You get attacked by an angry goblin. Game Over.")
 else:
     print("You Became depressed because you didnt find the gem. Game Over.")
+
 ```
 
-Goodnight folks! ✌🏾
+Like they say, learning to code is like going to the gym, and every now and then, you have to take a rest day. I plan to gom through Day 4 and 5 of the journey tomorrow since I'll be fully charged and have my full days to spend working.
+
+See ya folks! ✌🏾
 
 #### If you want to keep up with my progress or just want to connect as peers, check out my social links below and give me a follow!
 
