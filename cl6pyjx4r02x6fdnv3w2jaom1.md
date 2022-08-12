@@ -70,6 +70,57 @@ I learned a good amount from these assignments and will def be saving these for 
 I was really excited to give this project a go when it was introduced at the beginning of the days material but after going through the day and spending more time that I thought I would, I ran out of time where I think it would be effective for me to work on this. I wouldn't retain as much knowledge as I would when fully alert.
 
 So I plan to knock out this project before work tomorrow and will update this blog with the project and my thoughts! I at least wanted to get keep the blog post itself on schedule but will NOT be up until 12am CST trying to finish this project. If you're reading this tonight, check back tomorrow for the solution but if you happen to catch this article tomorrow 8/12, then the solution and my thought should be listed as an **Update:**
+Got an update here for ya! Finished the Day 3 project and you can see the solution I had below 😁.
+
+```
+ print('''
+*******************************************************************************
+          |                   |                  |                     |
+ _________|________________.=""_;=.______________|_____________________|_______
+|                   |  ,-"_,=""     `"=.|                  |
+|___________________|__"=._o`"-._        `"=.______________|___________________
+          |                `"=._o`"=._      _`"=._                     |
+ _________|_____________________:=._o "=._."_.-="'"=.__________________|_______
+|                   |    __.--" , ; `"=._o." ,-"""-._ ".   |
+|___________________|_._"  ,. .` ` `` ,  `"-._"-._   ". '__|___________________
+          |           |o`"=._` , "` `; .". ,  "-._"-._; ;              |
+ _________|___________| ;`-.o`"=._; ." ` '`."\` . "-._ /_______________|_______
+|                   | |o;    `"-.o`"=._``  '` " ,__.--o;   |
+|___________________|_| ;     (#) `-.o `"=.`_.--"_o.-; ;___|___________________
+____/______/______/___|o;._    "      `".o|o_.--"    ;o;____/______/______/____
+/______/______/______/_"=._o--._        ; | ;        ; ;/______/______/______/_
+____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____
+/______/______/______/______/____"=._o._; | ;_.--"o.--"_/______/______/______/_
+____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
+/______/______/______/______/______/______/______/______/______/______/_____ /
+*******************************************************************************
+''')
+print("Welcome to Treasure Island.")
+print("Your mission is to find the treasure.")
+
+# Write your code below this line 👇
+
+choice1 = input(
+    'You\'re at a cross road. Where do you want to go? Type "left" or "right" \n').lower()
+if choice1 == "left":
+    choice2 = input(
+        'You\'ve come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across. \n').lower()
+    if choice2 == "wait":
+        choice3 = input(
+            "You made it to Bountiful Booty Island, where the treasures run deep as your cheeks. There is a Trap house with 3 doors. One red, one yellow and one blue. Which colour do you choose? \n").lower()
+        if choice3 == "red":
+            print("It's a room full of fire. Game Over.")
+        elif choice3 == "yellow":
+            print("You secured the bag! You Win!")
+        elif choice3 == "blue":
+            print("You enter a room of thirst traps. Game Over.")
+        else:
+            print("You chose a door that leads into a black hole. Game Over.")
+    else:
+        print("You get attacked by an angry goblin. Game Over.")
+else:
+    print("You Became depressed because you didnt find the gem. Game Over.")
+```
 
 Goodnight folks! ✌🏾
 
