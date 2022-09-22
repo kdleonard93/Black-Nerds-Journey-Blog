@@ -1,7 +1,7 @@
 ## Day 13: Debugging - How To Find and Fix Errors in Your Code
 
 ## Today's Lesson
-This write-up is going to be VERY short. Just want to not some of the tips and tools Angela mentioned.
+This write-up is going to be VERY short. Just want to note some of the tips and tools Angela mentioned.
 
 #### General Tips
 
