@@ -1,17 +1,27 @@
-# Day 15: Local Dev Setup + Coffee Machine Project
+---
+title: "Day 15: Local Dev Setup + Coffee Machine Project"
+seoTitle: "Day 15: Local Dev Setup + Coffee Machine Project"
+seoDescription: "Holla to my future self and anyone that's still reading along. Between day 14 and Day 15, a lot of changes happened within my personal life and career."
+datePublished: Wed Oct 19 2022 01:20:18 GMT+0000 (Coordinated Universal Time)
+cuid: cl9ey6dlw000109mu20fn0epw
+slug: day-15-local-dev-setup-coffee-machine-project
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1666142293762/bKKhgK_6G.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1666142342362/FEfhIxnW6.png
+tags: python, backend, 100daysofcode, object-oriented-programming, black-devs
+
+---
 
 ## Today's Objective & News Update
-Holla to my future self and anyone that's still reading along. Between day 14 and Day 15, a lot of changes happened within my personal life and career. I'm happy to say, I LANDED THE JOB AS A SOFTWARE ENGINEER I AT MY CURRENT COMPANY!! 
-&nbsp;
-<iframe src="https://giphy.com/embed/br43v11JLIm9fUlVwX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mlb-chicago-white-sox-tim-anderson-br43v11JLIm9fUlVwX">via GIPHY</a></p>
-&nbsp;
-So lately, I've just been going over some dev tools I will be using for the job as well as watching some PHP videos since that's the main language used for that team. Hoping that trying to learn both PHP as well won't hinder my grasp of more complicated Python concepts in the future but difficult challenges are usually how I grow.
+
+Holla to my future self and anyone that's still reading along. Between day 14 and Day 15, a lot of changes happened within my personal life and career. I'm happy to say, I landed the job as a Software Engineer I at my current company, Cars.com!!
 
 ## Coffee Machine Project
-We didn't learn anything new for day 15 and the main focus was to get the students set with their local environment. Since I was using my own local environment for the first 14 days, I pretty much speed through those sections.
+
+We didn't learn anything new for day 15 and the main focus was to get the students set with their local environment. Since I used my own local environment for the first 14 days, I sped through those sections.
 
 #### Solution
-```
+
+```python
 import os
 
 
@@ -109,14 +119,17 @@ while is_on:
             if is_transaction_successful(payment, drink["cost"]):
                 make_coffee(choice, drink["ingredients"])
 ```
+
 ### EOD
-I'm hoping to get back into my daily or at least every other day grind for this course but once I start my new position on 11/1, who knows exactly how taxing my days will be trying to learn a whole new working environment with my new team. Only time will tell 😁 
+
+I'm hoping to get back into my daily or at least every other day grind for this course but once I start my new position on 11/1, who knows exactly how taxing my days will be trying to learn a whole new working environment with my new team. Only time will tell 😁
 
 #### If you want to keep up with my progress or just want to connect as peers, check out my social links below and give me a follow!
-﻿
-<ul>
-<li><a href="https://twitter.com/RingoMandingo93" target="_blank">🐦 Twitter</a></li>
-<li><a href="https://github.com/kdleonard93" target="_blank">💻 Github</a></li>
-<li><a href="https://discord.com/users/407639833146818570" target="_blank">👾 Discord</a></li>
-<li><a href="https://www.linkedin.com/in/kyle-leonard93/" target="_blank">👔 LinkedIn</a></li>
-</ul>
+
+* [🐦 Twitter](https://twitter.com/RingoMandingo93)
+    
+* [💻 Github](https://github.com/kdleonard93)
+    
+* [👾 Discord](https://discord.com/users/407639833146818570)
+    
+* [👔 LinkedIn](https://www.linkedin.com/in/kyle-leonard93/)
