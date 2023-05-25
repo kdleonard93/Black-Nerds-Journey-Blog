@@ -28,7 +28,7 @@ So there are five different lectures with five challenges:
 4\. Generate a Random Walk  
 5\. Draw a Spirograph
 
-I don't feel the need to add any snippets of code from the challenges so this is more so a recap for me to double back to. A new concept we touch on is `Tuples`. They are immutable, ordered collections of items in a single variable. Their immutability and ability to hold heterogeneous data distinguish them from lists.
+I don't feel the need to add any snippets of code from the challenges so this is more so a recap for me to double back to. Most challenges were straightforward outside of the last couple. A new concept we touch on is `Tuples`. They are immutable, ordered collections of items in a single variable. Their immutability and ability to hold heterogeneous data distinguish them from lists.
 
 ## EOD
 
