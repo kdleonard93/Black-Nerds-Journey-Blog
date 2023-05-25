@@ -15,7 +15,7 @@ tags: python, web-development, backend, 100daysofcode, object-oriented-programmi
 
 During day 17's lesson, Angela went over creating custom Classes, Attributes, and Methods when dealing with OOP. She touched back on examples from Day 16 and what I'll do is make quick note of the main takeaways.
 
-### Classes
+### Unveiling Classes
 
 A class is a blueprint used to create objects (specific instances of the class). Each instance of the class can have its own set of attributes and methods, and you can interact with the instance using these attributes and methods. This leads us to another important note for classes, and that is `Constructors`. A `Constructor` is a special method that's used to initialize new objects or instances of a class and is usually defined with the `__init__` method. (Note, I learned that `__init__` is technically an initializer. The real constructor in Python is `__new__` but is rarely used).
 
@@ -29,17 +29,17 @@ class Car:
         self.color = color
 ```
 
-Inside the `__init__` method, `self` refers to the instance of the class that's being initialized. By assigning to `self.make`, `self.model`, and `self.color`, you're setting attributes on the `Car` instance.
+Inside the `__init__` method, `self` refers to the instance of the class that's being initialized. By assigning to `self.make`, `self.model`, and `self.color`, you're setting attributes on the `Car` instance. Below are quick summaries of what Attributes and Methods are.
 
 #### Attributes
 
-In addition to the info related to `Attributes` I already mentioned, here is a pretty straightforward definition of attributes: Attributes are variables tied to an instance of a class. They represent the object's characteristics, are defined within the class using the `self` keyword, and can be accessed or modified using the dot (`.`) operator. Essentially, attributes are the unique details of an object.
+An attribute is a variable associated with an instance of a class. It characterizes the object, is defined within the class using the self keyword, and is accessible or modifiable using the dot (.) operator. To put it simply, attributes are the unique details that define an object.
 
 #### Methods
 
-Regarding methods, methods are just functions but are associated with a specific class and define the behaviors or actions that an instance of the class can perform. Defined within the class, methods typically operate on attributes or perform computations. You call a method on an instance using the dot (`.`) operator. In essence, methods are the actions an object can take.
+A method is essentially a function linked to a specific class. It outlines the behaviors or actions an instance of the class can perform. Generally operating on attributes or performing computations, methods are invoked on an instance using the dot (.) operator. In short, methods represent the actions an object can perform.
 
-Angela does a good job explaining all of this in detail with examples along the way. The project was focused solely on creating custom Classes to create a `Quiz Game`. From here on out, I'm going to commit my day's project code to their respective branches. As we get into harder projects, more files are associated so I'm thinking about just adding the link to the repo each time with some screenshots of the code, instead of adding the solution here like I've done previously. Even though I added code to multiple files, I'm going to add the code examples here as well one last time, since each file is short in length.
+Angela explains these concepts well, enriching her explanation with ample examples. The day's project involved leveraging custom classes to develop a Quiz Game. From this point forward, I'll be committing the day's project code to their respective branches and then merge them into master. As the complexity of the projects grows, I'm considering providing a repository link with code snippets, rather than posting the entire solution. But for today, the entire solution will be provided :).
 
 ## Solution
 
@@ -109,7 +109,7 @@ class QuizBrain:
 
 Here is a [link to the repo](https://github.com/kdleonard93/100-Days-Of-Code_Python/tree/day-17/day-17). There are a couple more files listed in the repo, `data.py` and `trial.py`. `data.py` is where the default data was held but I used [https://opentdb.com/](https://opentdb.com/) to generate a new random set of questions and answers. `trial.py` was just a file I used while doing a few examples from Angela's lecture videos.
 
-From the code provided, you can see how leveraging OOP works between [`main.py`](http://main.py), `question_model.py`, and `quiz_brain.py`. The `Question` class in `question_model.py` is used to create instances of questions with their text and answers. In [`main.py`](http://main.py), a list of `Question` objects are created from `question_data` and stored in `question_bank`. The `QuizBrain` class in `quiz_brain.py` controls the flow of the quiz, tracking the current question number, score, and checking user answers. It runs through all questions as long as there are more questions in the `question_bank`. Once the quiz finishes, it prints the final score for the user.
+These scripts demonstrate the efficacy of OOP in organizing and executing complex tasks. The `Question` class in `question_model.py` is used to create instances of questions, [`main.py`](http://main.py) assembles a `question_bank` list of `Question` objects, while `QuizBrain` class in `quiz_brain.py` handles the quiz flow, tracking the question number, score, and validating user answers.
 
 ## EOD
 
