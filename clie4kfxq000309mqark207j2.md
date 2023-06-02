@@ -68,7 +68,7 @@ Nothing crazy here to note other than it was a decent re-introduction of the bas
 
 ## The Turtle Race
 
-This project on the other hand was a bit more complicated and took me a little bit of re-reading the Turtle docs and some previous lessons to get through it. The main focus of this project was to understand the use and importance of State and Instances. Since this one only needed one file as well, I'll post the full code but you can still check changes in [GitHub](https://github.com/kdleonard93/100-Days-Of-Code_Python/tree/main/day-19) as well
+This project on the other hand was a bit more complicated and took me a little bit of re-reading the Turtle docs and some previous lessons to get through it. The goal was to prompt the user with an input box to guess which turtle they think would win. After the user chooses, the turtles would line up and then begin the race. If you win, you get a message in the terminal saying so and if you lose, you'll get a similar message. The main focus of this project was to understand the use and importance of State and Instances. Since this one only needed one file as well, I'll post the full code but you can still check changes in [GitHub](https://github.com/kdleonard93/100-Days-Of-Code_Python/tree/main/day-19) as well. [Check out the race!](https://www.loom.com/share/51bbedc871a7445994cd49c2f0ca4d92)
 
 ```python
 from turtle import Turtle, Screen
