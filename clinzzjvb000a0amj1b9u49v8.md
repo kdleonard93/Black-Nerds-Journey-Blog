@@ -1,6 +1,6 @@
 ---
 title: "Day 21 - Building the Snake Game Pt 2"
-seoTitle: "Mastering Snake Game Development: Part 2"
+seoTitle: "Day 21 - Building the Snake Game Pt 2"
 seoDescription: "Discover advanced techniques and strategies for building the Snake Game in Part 2 of our tutorial series. Level up your game development skills."
 datePublished: Fri Jun 09 2023 03:18:15 GMT+0000 (Coordinated Universal Time)
 cuid: clinzzjvb000a0amj1b9u49v8
