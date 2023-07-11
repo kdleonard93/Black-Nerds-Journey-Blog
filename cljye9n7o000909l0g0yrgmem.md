@@ -1,10 +1,10 @@
 ---
-title: "Practice?...We're Talking About Practice, Man."
+title: "Practice??? We're Talking About Practice, Man."
 seoTitle: "Automating Emails with Python: Coding Journey Detour"
 seoDescription: "Building an Automated Email Sender using Python, improving my OOP skills, and delving into automation."
 datePublished: Tue Jul 11 2023 14:35:24 GMT+0000 (Coordinated Universal Time)
 cuid: cljye9n7o000909l0g0yrgmem
-slug: practicewere-talking-about-practice-man
+slug: practice-were-talking-about-practice-man
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689083385806/fb9f0be3-4762-41e9-af8a-58f4cf7aa413.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689086025138/4f69a7fa-c5dc-4403-972d-c69b8f834628.jpeg
 tags: pythonautomation, emailsenderproject, blacknerdsjourney, pythoncodewarrior, techdiyprojects
