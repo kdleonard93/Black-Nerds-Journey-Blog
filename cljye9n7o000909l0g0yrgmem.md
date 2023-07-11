@@ -39,13 +39,13 @@ I'll refrain from veering into a discourse about trading bots and the like, so b
 
 * **smtplib**: This is the built-in Python library for sending emails using the Simple Mail Transfer Protocol (SMTP).
     
-* **ssl**: Another built-in Python library. I'll use it to create a secure connection with your mail server.
+* **ssl**: Another built-in Python library. I'll use it to create a secure connection with my mail server.
     
 * **getpass**: This built-in library is used for secure password handling.
     
-* **schedule**: This is an external library that you can use to schedule emails to be sent at specific times.
+* **schedule**: This is an external library that I can use to schedule emails to be sent at specific times.
     
-* **pandas**: I will use this library to create and manage a DataFrame that will serve as your email log.
+* **pandas**: I will use this library to create and manage a DataFrame that will serve as an email log.
     
 
 **Optional Libraries**:
