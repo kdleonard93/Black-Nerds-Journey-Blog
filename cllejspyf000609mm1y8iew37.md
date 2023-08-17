@@ -13,7 +13,7 @@ tags: blogging, python, backend, automation, emailsenderproject
 
 ## Automation Complication
 
-I know, I know, I said "This Project should only take me a couple of weeks".....well, here I am 4 weeks later and only halfway through lol. Went to Canada for a bachelor party and have been finishing up house projects. Lots of moving parts recently. Add the aspect of needing to learn more libraries and you have a major delay on getting this completed 😅.
+I know, I know, I said "This Project should only take me a couple of weeks".....well, here I am 4 weeks later and only halfway through lol. Went to Canada for a bachelor party and have been finishing up house projects, so lots of moving parts recently. Add the aspect of needing to learn more libraries ad you have a major delay in getting this completed 😅.
 
 The meat of the project is done though! You can go over to my repo here -&gt; [https://github.com/kdleonard93/automated\_email\_sender](https://github.com/kdleonard93/automated_email_sender) and check in on the commits made since I started this project. Feel free to pull it down and give it a try yourself. Please note though, if you wanna try it out, you'll need to make a few adjustments:
 
