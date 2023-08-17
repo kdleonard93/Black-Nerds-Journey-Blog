@@ -13,11 +13,11 @@ tags: blogging, python, backend, automation, emailsenderproject
 
 ## Automation Complication
 
-I know, I know, I said "This Project should only take me a couple of weeks".....well, here I am 4 weeks later and only halfway through lol. Not that this project was just THAT difficult for me, it's more so a mix of learning new libraries and also having a very busy schedule in my personal life for the month of July and August as well.
+I know, I know, I said "This Project should only take me a couple of weeks".....well, here I am 4 weeks later and only halfway through lol. Went to Canada for a bachelor party and have been finishing up house projects. Lots of moving parts recently. Add the aspect of needing to learn more libraries and you have a major delay on getting this completed 😅.
 
-The meat of the project is complete though! You can go over to my repo here -&gt; [https://github.com/kdleonard93/automated\_email\_sender](https://github.com/kdleonard93/automated_email_sender) and check in on the commits made since I started this project. Feel free to pull it down and give it a try yourself. Please note though, if you wanna try it out, you'll need to make a few adjustments:
+The meat of the project is done though! You can go over to my repo here -&gt; [https://github.com/kdleonard93/automated\_email\_sender](https://github.com/kdleonard93/automated_email_sender) and check in on the commits made since I started this project. Feel free to pull it down and give it a try yourself. Please note though, if you wanna try it out, you'll need to make a few adjustments:
 
-1. Update the `sender_email` argument value in the `send_email` function to your own (you'll need to use gmail). Change the recipients email as well. (Dont you dare use mine lol)
+1. Update the `sender_email` argument value in the `send_email` function to your own (you'll need to use Gmail). Change the recipient's email as well. (Dont you dare use mine lol)
     
 2. Make sure you set your password in an environment variable since we are storing sensitive data (aka: password). You can do this in your terminal by running `export EMAIL_PASSWORD=your_password_here` .
     
@@ -25,7 +25,7 @@ The meat of the project is complete though! You can go over to my repo here -&gt
     
 
 Once you have the following checks and this repo pulled, run `python main.py` and you should be set!  
-As I was writing this, I realized the amount of other sensitive info i had in the project (emails, env variables, etc.) So I made some code changes already to improve project 😄.
+As I was writing this, I realized the amount of other sensitive info I had in the project (emails, env variables, etc.) So I made some code changes already to improve the project 😄.
 
 For those who wanna see a quick snippet of the `email_sender.py` file, you can take a peek below:
 
@@ -111,7 +111,7 @@ Wish I was able to get a check-in written sooner but, you know.....life. The las
 
 #### **If you want to keep up with my progress or just want to connect as peers, check out my social links below and give me a follow!**
 
-* [**🐦 Twitter**](https://twitter.com/RingoMandingo93) **(Not calling it X yet...doesn't roll of the tongue lol)**
+* [**🐦 Twitter**](https://twitter.com/RingoMandingo93) **(Not calling it X yet...doesn't roll off the tongue lol)**
     
 * [**💻 Github**](https://github.com/kdleonard93)
     
