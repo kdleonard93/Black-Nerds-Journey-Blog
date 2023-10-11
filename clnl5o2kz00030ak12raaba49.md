@@ -60,7 +60,7 @@ with open('letter.txt', mode='r') as new_letter:
 # Example 3
 with open('letter.txt', mode='a') as new_letter:
     """The call below will append the added text to letter.txt at the end of the file."""
-    read_letter.write("It's ya boi, that's who?")
+    new_letter.write("It's ya boi, that's who?")
 ```
 
 There's more to learn about "Input and Output" though and I recommend taking a peek at the docs -&gt; [https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files).
