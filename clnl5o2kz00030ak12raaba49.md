@@ -40,10 +40,10 @@ A quick example of this would be:
 ```python
 open('letter.txt', 'r')
 or
-open('letter.txt', mode='r') 
+open('letter.txt', mode='r')
 ```
 
-Personally, I prefer `open('letter.txt', mode='r')` so whoever reads the code, is provided more clarity on what that is doing, but to each their own. This leads us to a nice lil' trick for Python to ensure the file closes after the update is made.
+Personally, I prefer `open('letter.txt', mode='r')` so whoever reads the code, is provided more clarity on what that is doing, but to each their own. This leads us to a nice lil' trick for Python to ensure the file closes after the update is made. We do this by using `with` and `as` like so:
 
 ```python
 # Example 1
