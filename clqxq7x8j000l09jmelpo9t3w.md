@@ -7,7 +7,7 @@ cuid: clqxq7x8j000l09jmelpo9t3w
 slug: personal-finance-tracker-project-and-2024-plans
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704262361339/2fb0dc0b-ac9d-4411-9f66-3903c75270cd.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1704262392564/bd8d813a-dc57-4fe6-b157-19369ae573db.png
-tags: postgresql, docker, python, django, typescript, cockroachdb, svelte
+tags: app-development, postgresql, docker, python, django, typescript, cockroachdb, svelte
 
 ---
 
@@ -21,7 +21,7 @@ When I first started this project, I went in with the idea of 100% using a serve
 
 #### Svelte Sorcerer
 
-Out of all of the frontend frameworks out there these days, Svelte was won me over for its easy learning curve and simplicity. I compared mainly Vue and Svelte, but Solid.js and Qwik were also considered. I didn't even consider Recact cause i have personal issues with that framework and is just a "me" problem 😂. The winner though, was Svelete for many reasons:
+Out of all of the frontend frameworks out there these days, Svelte won me over for its easy learning curve and simplicity. I compared mainly Vue and Svelte, but Solid.js and Qwik were also considered. I didn't even consider Recact cause I have personal issues with that framework and is just a "me" problem 😂. The winner though, was Svelete for many reasons:
 
 1. **Performance**: Svelte's compiler approach ensures that the final bundle size is smaller and the runtime performance is faster. For an expense-tracking app, which likely involves numerous interactive elements and frequent updates, Svelte’s efficient update mechanism can make the UX much smoother for the customers, aka myself and my lady.
     
@@ -34,9 +34,9 @@ Out of all of the frontend frameworks out there these days, Svelte was won me ov
 5. **SvelteKit for Full-Stack Development**: If the expense tracking app requires both frontend and backend development, SvelteKit offers an all-in-one solution, streamlining the development process. It provides features like server-side rendering, static site generation, and file-based routing, which can be very beneficial.
     
 
-#### Django Dogg
+#### Django Dogg 🐕
 
-Regarding the backend framework, Django won the battle here against Flask and Fa. I experimented a bit with both and my decision was pretty back and forth, but all in all, Django fits this project's needs the most. Some of the key features for choosing Django:
+Regarding the backend framework, Django won the battle here against Flask. I experimented a bit with both and my decision was pretty back and forth, but all in all, Django fits this project's needs the most. Some of the key features for choosing Django:
 
 1. **Structured and Feature-Rich**: Django's "batteries-included" approach provides a lot of built-in functionalities that I learned are beneficial for this app. The admin interface (best feature in my opinion), user authentication, and ORM are particularly useful. The admin interface can be quickly customized to manage expenses, categories, and user accounts, which would be a significant part of an expense-tracking app.
     
@@ -49,9 +49,9 @@ Regarding the backend framework, Django won the battle here against Flask and Fa
 5. **Community and Ecosystem**: Django has a large community and extensive documentation, which makes finding solutions to problems easier. There are also a bunch of dope packages to extend Django, adding functionality and/or simplifying development.
     
 
-#### Durable like a Cockroach
+#### Durable like a Cockroach 🪳
 
-Choosing between these two was my biggest decision and ultimately came down to which would be easier to set up and what worked better with my backend choice. After playing with Fauna first, I chose CockroachDB because I was planning on using Django as my backend framework and I was familiar with SQL. On the other hand, I am very familiar with JSON and work with it a lot for work so Fauna's JSON-like document model was pretty attractive. The issue I found with Fauna though, is that there's not a lot of support out there in terms of resources and community, making using this for a large project a difficult task. When trying out CockroachDB, the learning curve, to me, seems to be a bit steeper but they have ***much*** more learning material. They also have more organized and richer documentation with a load of resources in what they call "Cockroach University". These resources include quick projects, webinars, and free courses that offer certificates upon completion. This makes CockroachDB an easy winner for this particular project, but I still plan to build something with Fauna at some point this year. Here are the main reasons for CockraochDB summed up
+Choosing between these two was my biggest decision and ultimately came down to which would be easier to set up and what worked better with my backend choice. After playing with Fauna first, I chose CockroachDB because I was planning on using Django as my backend framework and I was familiar with SQL. On the other hand, I am very familiar with JSON and work with it a good amount at my company, so Fauna's JSON-like document model was pretty attractive. The issue I found with Fauna though, is that there's not a lot of support out there in terms of resources and community, making using this for a large project a difficult task. When trying out CockroachDB, the learning curve, to me, seems to be a bit steeper but they have ***much*** more learning material. They also have more organized and richer documentation with a load of resources in what they call "Cockroach University". These resources include quick projects, webinars, and free courses that offer certificates upon completion. This makes CockroachDB an easy winner for this particular project, but I still plan to build something with Fauna at some point this year. Here are the main reasons for CockraochDB summed up
 
 1. **Strong Consistency**: For a financial application, data consistency is crucial. CockroachDB's strong consistency model ensures that all transactions are accurate and reliable, which is paramount in handling financial data where errors or inconsistencies can have serious consequences.
     
@@ -59,12 +59,12 @@ Choosing between these two was my biggest decision and ultimately came down to w
     
 3. **Transactional Data Integrity**: CockroachDB supports full ACID transactions, which is important for an application dealing with financial records. Ensuring the integrity of each transaction (like adding or modifying expense entries) is essential, and CockroachDB's focus on transactional integrity aligns well with this requirement.
     
-4. **SQL Interface**: The use of standard SQL in CockroachDB can be a significant advantage. SQL is an OG in the database game, making it easier to find developers familiar with it or to work within a team that already has SQL knowledge. This could lead to a smoother development process and easier maintenance. I know we use MySQL at my company so having access to public AND company resources are nice to haves for learning and troubleshooting.
+4. **SQL Interface**: The use of standard SQL in CockroachDB can be a significant advantage. SQL is an OG in the database game, making it easier to find developers familiar with it or to work within a team that already has SQL knowledge. This could lead to a smoother development process and easier maintenance. I know we use MySQL at my company so having access to public AND company resources are nice to have for learning and troubleshooting.
     
 5. **Scalability and Geo-Distribution**: CockroachDB's scalability and support for geo-distributed clusters can be advantageous if the app grows in user base or if there's a need to provide low-latency access to users in different geographical locations.
     
 
-#### Diving in off the Dock(er), no `Bun` intended...😏
+#### Diving in off the Dock(er), no `Bun` intended...😏 🥁
 
 I started out wanting to containerize this application while using Bun to serve up my app. I was put in my place immediately 😅. The complexity of getting Bun set up with Docker is not well documented whatsoever and the few example projects I saw were a bit too basic for me to apply what they were showing to this project. So my idea is to just stick with using node and (possibly) implement bun after launching the project as an enhancement. I understand Docker enough to get around some troubleshooting for my work at Cars Commerce, but I'm no expert whatsoever. So I'm banking on this project to bring along some good lessons (and plenty of challenges).
 
@@ -95,7 +95,7 @@ I started out wanting to containerize this application while using Bun to serve 
 
 1. **Frontend**: After exploring various options, I've landed on SvelteKit with TypeScript and Vite. Their modern architecture and fast rendering capabilities promise a seamless user experience.
     
-2. **Backend**: I chose Python with Django over Flask for its flexibility and simplicity – crucial for potential future customizations.
+2. **Backend**: I chose Python with Django over Flask for its flexibility and simplicity – crucial for future customizations.
     
 3. **Database**: CockroachDB won over Fauna for its strong consistency, transactional data integrity, and rich documentation for newcomers.
     
@@ -132,9 +132,9 @@ I started out wanting to containerize this application while using Bun to serve 
 
 **New Dev Portfolio & Anticipating the Journey Ahead**
 
-I'm pumped again as I venture deeper into this project, eager to immerse myself in the technologies I've chosen and tackle the challenges they present. Over the last couple of weeks, I took a long and much-needed vacation. During that time I built a new dev portfolio and added it to a domain I picked up last year with a vision of what I'm trying to offer and contribute to the space of development: [Digital Dopamine](https://digitaldopamine.dev/).
+I'm pumped again as I venture deeper into this project, eager to immerse myself in the technologies I've chosen and tackle their challenges. Over the last couple of weeks, I took a long and much-needed vacation. During that time I built a new dev portfolio and added it to a domain I picked up last year with a vision of what I'm trying to offer and contribute to the space of development: [Digital Dopamine](https://digitaldopamine.dev/).
 
-This blog post marks the beginning of a new series dedicated to this project, where I'll be sharing detailed plans and technical insights as the project unfolds. Alongside, I'll continue my journey with the 100-days-of-python challenge. While it might seem monotonous at times, I told myself I was going to complete it and I'm committed to seeing it through (don't know why I did that to myself though lol "Life Been Lifing" 😅).
+This blog post marks the beginning of a new series dedicated to this project, where I'll be sharing detailed plans and technical insights as the project unfolds. Alongside, I'll continue my journey with the 100-days-of-python challenge. While it might seem monotonous at times, I told myself I was going to complete it and I'm committed to seeing it through (no matter how much interest I lost in it 😅).
 
 For those interested in following the project's progress, feel free to ⭐️ and 👀 the repository here: [Leo\_Ledger on GitHub](https://github.com/kdleonard93/Leo_Ledger). Let's get to work!
 
