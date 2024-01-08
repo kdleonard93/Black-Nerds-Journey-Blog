@@ -12,7 +12,7 @@ tags: python, django, pandas, 100daysofcode, svelte, datamanipulation
 
 ## Let's start with the boring stuff
 
-This past Sunday marked Day-25 of my 100 Days of Python journey. The challenge? To deepen my understanding of Pandas through a project that, honestly, wasn't the most thrilling – a U.S. States guessing game. Sure, it sounds mundane, but it's crucial stuff, especially since handling CSV files with Pandas is a fundamental skill in the world of finance apps. So, let's dive in and break down this project, tedious as it might have been!
+Today I completed Day-25 of my 100 Days of Python journey. The challenge? To deepen my understanding of Pandas through a project that, honestly, wasn't the most thrilling – a U.S. States guessing game. Sure, it sounds mundane, but it's crucial stuff, especially since handling CSV files with Pandas is a fundamental skill in the world of finance apps. So, let's dive in and break down this project, tedious as it might have been!
 
 #### 🎨 The Toolbox: turtle & pandas
 
