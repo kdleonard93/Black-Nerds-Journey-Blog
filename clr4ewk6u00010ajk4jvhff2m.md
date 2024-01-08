@@ -24,7 +24,7 @@ And then there's `pandas` – the data wizard of Python. Think of it as your go-
 
 The first order of business was setting up our game screen, creating a new window titled "U.S. States Game" and decking it out with a background image of a blank U.S. map. The image is a `.gif` file since the turtle library only works with those files for use within its methods. For example:
 
-```
+```python
 pythonCopy code    image = "blank_states_img.gif"  
     screen.addshape(image)
     turtle.shape(image)
@@ -42,7 +42,7 @@ This is where things got a tad more interesting. We started with an empty list, 
 
 #### ✍️ Marking the Map: Displaying Guessed States
 
-Every correct guess brought a new turtle onto the scene to mark the state's name on the map. Simple, yet effective. You can find the project here if yu wanna check out the code.
+Every correct guess brought a new turtle onto the scene to mark the state's name on the map. Simple, yet effective. You can find the project here if you wanna check out the code -&gt; [Github Repo](https://github.com/kdleonard93/100-Days-Of-Code_Python/pull/17).
 
 So, that wraps up Day-25. While the project didn't exactly set my world on fire, it did reinforce some key skills. But let's be real, my mind kept drifting to a more exciting project...
 
