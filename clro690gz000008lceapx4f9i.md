@@ -1,6 +1,6 @@
 ---
 title: "Whipping Up a Film Catalogue With the DUST Stack"
-seoTitle: "DUST Stack: Coding Django, Svelte, and TypeScript in Web Development"
+seoTitle: "Whipping Up a Film Catalogue With the DUST Stack"
 seoDescription: "Dive into the DUST stack, combining Django, UI Library, Svelte, and TypeScript for an innovative web development project."
 datePublished: Mon Jan 22 2024 00:10:55 GMT+0000 (Coordinated Universal Time)
 cuid: clro690gz000008lceapx4f9i
