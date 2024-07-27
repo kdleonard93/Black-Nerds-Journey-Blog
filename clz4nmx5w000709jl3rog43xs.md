@@ -13,9 +13,9 @@ tags: app-development, python, django, web-development, testing, htmx
 
 ## Pulling Another Switcharoo
 
-Yeah... it happened again. The tech stack I was planning to use for this project has yet again been altered. But this time, I'm sure most of you would agree that this change was for the better and I'll break down the reasoning and the result. But with that being said, I got a working web app that is live on Render!
+Yeah... it happened again. The tech stack I was planning to use for this project has yet again been altered. But this time, I'm sure most of you would agree that this change was for the better and I'll break down the reasoning and the result. But with that being said, I got a working web app that is live on Render! It's a beta version so there's nothing super pretty about the design and the "Welcome" content. But the big milestone here is having all the logic and functionality working properly.
 
-###### If you wanna jump right into the code, pop over to the repo! **\-&gt;**[https://github.com/kdleonard93/Leo\_Ledger](https://github.com/kdleonard93/Leo_Ledger).
+###### If you wanna jump right into the code, pop over to the repo! **\-&gt;**[https://github.com/kdleonard93/Leo\_Ledger](https://github.com/kdleonard93/Leo_Ledger). The link to the live app is a bit further down this post with a note 😉.
 
 To refresh everyone's memory, one of my main goals this year was to create a Finance Tracking app as I leveled up my Python knowledge. I've been fascinated with everything Svelte for frontend work and had recently finished a project that was a web app for film enthusiasts to save and categorize their favorite films, so I initially chose to use Svelte as my frontend for the finance tracker project.
 
