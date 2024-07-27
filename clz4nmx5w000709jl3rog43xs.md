@@ -15,7 +15,7 @@ tags: app-development, python, django, web-development, testing, htmx
 
 Yeah... it happened again. The tech stack I was planning to use for this project has yet again been altered. But this time, I'm sure most of you would agree that this change was for the better and I'll break down the reasoning and the result. But with that being said, I got a working web app that is live on Render!
 
-###### If you wanna jump right into the code, pop over to the repo! **\-&gt;** [https://github.com/kdleonard93/Leo\_Ledger](https://github.com/kdleonard93/Leo_Ledger).
+###### If you wanna jump right into the code, pop over to the repo! **\-&gt;**[https://github.com/kdleonard93/Leo\_Ledger](https://github.com/kdleonard93/Leo_Ledger).
 
 To refresh everyone's memory, one of my main goals this year was to create a Finance Tracking app as I leveled up my Python knowledge. I've been fascinated with everything Svelte for frontend work and had recently finished a project that was a web app for film enthusiasts to save and categorize their favorite films, so I initially chose to use Svelte as my frontend for the finance tracker project.
 
@@ -76,7 +76,7 @@ These were the only big changes I made. I was ***this*** close to using GoLang i
 
 Boom -&gt; [Leo Ledger Finance Tracker](https://leo-ledger.onrender.com/), the app in all its glory! It's very simple, in terms of design which I plan to overhaul over the next month or so. Everything works as intended; You can create an account, and test the app's functionality.
 
-**Note: The site is hosted on Render's Free service so it might take a while to load since they spin down the DB during inactivity. But once it's loaded, it should be ⚡️fast.**
+**Note: The site is hosted on Render's Free service so it might take a while to load since they spin down the DB during inactivity until it's hit again, then takes about 30-45 seconds to spin back up. But once it's loaded, it should be ⚡️fast.**
 
 There are a few areas that were great learning lessons and instead of posting a bunch of code snippets, I'll focus on just the key areas and just link the file directly from GitHub.
 
