@@ -1,5 +1,5 @@
 ---
-title: "Leo Ledger in All Its Pleasure"
+title: "Leo Ledger in All Its Pleasure - Part 1"
 seoTitle: "Leo Ledger in All Its Pleasure"
 seoDescription: "Leo Ledger: The ultimate finance tracking app that simplifies budgeting, enhances financial awareness, and ensures secure, effortless money management"
 datePublished: Sat Jul 27 2024 21:39:53 GMT+0000 (Coordinated Universal Time)
