@@ -50,7 +50,7 @@ Here’s a lil’ demo:
 
 ### EOD
 
-That pretty much sums up these 2 days. I mentioned this in a previous post but I’ve been trying to figure out the best and most affordable way to gain some Kubernetes skills. Was informed by my company that they “didn’t have the budget” for the certificate training. Which to me is pretty shocking as the certificate is only $400. I’d understand not being able to reimburse tuition or anything else at a similar scale but $400?? Just another corpo way of saying “Our investors want that $400 so instead of investing in you, which would in term make the company better, we’re giving it to them instead.”
+That pretty much sums up these 2 days. I mentioned this in a previous post but I’ve been trying to figure out the best and most affordable way to gain some Kubernetes skills. Was informed by my company that they “didn’t have the budget” for the certificate training. Which to me is pretty shocking as the certificate is only $400. I’d understand not being able to reimburse tuition or anything else at a similar scale but $400??
 
 But enough of my ranting, I still plan to make moves in the DevOps field and gain a deeper knowledge of Kubernetes and Docker. I’m finding that I like DevOps more and more as time passes. Either that or I’m starting to hate designing pages more and more as the day goes on lol. I’m garbage at styling and will truly be happier if I never have to do it again.
 
