@@ -58,7 +58,7 @@ But enough of my ranting, I still plan to make moves in the DevOps field and gai
 
 * [**𝕏 Twitter**](https://twitter.com/RingoMandingo93)
     
-* [**�**](https://twitter.com/RingoMandingo93)[**� Github**](https://github.com/kdleonard93)
+* [**💻 Github**](https://github.com/kdleonard93)
     
 * [**👾 Discor**](https://discord.com/users/407639833146818570)[**d**](https://www.linkedin.com/in/kyle-leonard93/)
     
