@@ -251,7 +251,7 @@ export function deleteSessionTokenCookie(event: RequestEvent): void {
 
 If anyone is looking for a deeper dive into the docs, I’ve added a couple of references below:
 
-* [https://lucia-next.pages.dev/](https://lucia-next.pages.dev/) (resources on implementing authentication with JavaScript and TypeScript)
+* [https://lucia-auth.com/](https://lucia-auth.com/) (resources on implementing authentication with JavaScript and TypeScript)
     
 * [https://thecopenhagenbook.com/](https://thecopenhagenbook.com/) (a general guideline on implementing auth in web applications)
     
