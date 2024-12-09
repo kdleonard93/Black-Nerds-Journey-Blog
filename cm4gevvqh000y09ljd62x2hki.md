@@ -1,10 +1,10 @@
 ---
-title: "Implementing Authentication from Scratch: A Guide to Sessions and Cookies in SvelteKit"
+title: "How to Build Custom Authentication in SvelteKit: A Session and Cookie Overview"
 seoTitle: "Implementing Authentication from Scratch: A Guide to Sessions and Cook"
-seoDescription: "Learn how to build secure authentication in SvelteKit without external libraries. Step-by-step guide to implementing sessions, cookies, and token validation"
+seoDescription: "Explore building custom authentication in SvelteKit without auth libraries. Learn about session management, cookie handling, and secure token storage."
 datePublished: Mon Dec 09 2024 02:26:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm4gevvqh000y09ljd62x2hki
-slug: implementing-authentication-from-scratch-a-guide-to-sessions-and-cookies-in-sveltekit
+slug: how-to-build-custom-authentication-in-sveltekit-a-session-and-cookie-overview
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733710869894/deacc8a0-5edc-4c44-8f41-77e6af05767c.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1733710985075/169ef829-a933-40d7-a4f2-f2b8d7e5405c.png
 tags: software-development, authentication, python, typescript, svelte, drizzleorm
