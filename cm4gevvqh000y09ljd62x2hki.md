@@ -1,6 +1,6 @@
 ---
 title: "How to Build Custom Authentication in SvelteKit: A Session and Cookie Overview"
-seoTitle: "Implementing Authentication from Scratch: A Guide to Sessions and Cook"
+seoTitle: "Custom Authentication in SvelteKit: Session & Cookie Overview"
 seoDescription: "Explore building custom authentication in SvelteKit without auth libraries. Learn about session management, cookie handling, and secure token storage."
 datePublished: Mon Dec 09 2024 02:26:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm4gevvqh000y09ljd62x2hki
