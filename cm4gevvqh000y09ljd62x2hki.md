@@ -5,7 +5,7 @@ seoDescription: "Explore building custom authentication in SvelteKit without aut
 datePublished: Mon Dec 09 2024 02:26:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm4gevvqh000y09ljd62x2hki
 slug: how-to-build-custom-authentication-in-sveltekit-a-session-and-cookie-overview
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733710869894/deacc8a0-5edc-4c44-8f41-77e6af05767c.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733877585420/55602fd2-1648-4b6c-86d0-1a1a88501875.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1733710985075/169ef829-a933-40d7-a4f2-f2b8d7e5405c.png
 tags: software-development, authentication, python, typescript, svelte, drizzleorm
 
