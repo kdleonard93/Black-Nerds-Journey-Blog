@@ -1,5 +1,5 @@
 ---
-title: "How to Build Custom Authentication in SvelteKit: A Session and Cookie Overview"
+title: "Building Custom Authentication: A Session and Cookie Overview"
 seoTitle: "Custom Authentication in SvelteKit: Session & Cookie Overview"
 seoDescription: "Explore building custom authentication in SvelteKit without auth libraries. Learn about session management, cookie handling, and secure token storage."
 datePublished: Mon Dec 09 2024 02:26:40 GMT+0000 (Coordinated Universal Time)
@@ -19,7 +19,7 @@ I’ve become comfortable with the pair and depending on the type of project I�
 
 #### 🥁🥁🥁*Drum Roll*🥁🥁🥁
 
-My next project is a RPG Habit Tracker App! Nothing super original about this idea but the scope of this type of app is much different than my finance tracker and what I do at my job. This forces me to reach for new tools that will better suit the project’s functionality which for me, is what keeps me excited about building things. I’ve probably mentioned it in a previous article but my tendency to be a “Jack of All Languages” sometimes hinders me from really understanding a specific language if I don’t do enough work with it. It’s come to bite me in the ass a couple of times as well but I’m learning to manage my context switching a bit better. One thing I need to do is practice more on code wars and get OOP fundamentals down to a T as well as just thinking a bit more pragmatically. I find myself leaning on documentation and quick notes too often, and I know not exercising my capability to memorize best practices will be my downfall if I ever want to excel beyond my current expertise. But enough rambling, we’re here to talk about some pretty dope things I learned when I started to work on authentication for my new app. My repo is pubic for the moment but i might move it back to private. Get a gander while you still can → [https://github.com/kdleonard93/creatures-of-habit](https://github.com/kdleonard93/creatures-of-habit).
+My next project is a RPG Habit Tracker App! Nothing super original about this idea but the scope of this type of app is much different than my finance tracker and what I do at my job. This forces me to reach for new tools that will better suit the project’s functionality which for me, is what keeps me excited about building things. I’ve probably mentioned it in a previous article but my tendency to be a “Jack of All Languages” sometimes hinders me from really understanding a specific language if I don’t do enough work with it. It’s come to bite me in the ass a couple of times as well but I’m learning to manage my context switching a bit better. One thing I need to do is practice more on code wars and get OOP fundamentals down to a T as well as just thinking a bit more pragmatically. But enough rambling, we’re here to talk about some pretty dope things I learned when I started to work on authentication for my new app. My repo is pubic for the moment but i might move it back to private. Get a gander while you still can → [https://github.com/kdleonard93/creatures-of-habit](https://github.com/kdleonard93/creatures-of-habit).
 
 ### So Long Lucia
 
