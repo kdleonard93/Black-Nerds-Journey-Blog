@@ -186,11 +186,11 @@ After writing up my authentication, I made a roadmap and plan on what I needed t
 
 ### Phase 5: Enhanced Features (6-8 weeks)
 
-As you can see, I still have PLENTY to get done before this app is considered a working alpha. But I’m already very proud of the work I've put in thus far. This is the most consistent I’ve been with coding since my Lambda School days, and my current streak has surpassed all streaks set when I was enrolled in 2019.
+As you can see, I still have PLENTY to get done before this app is considered a working alpha. Anything crossed out has been finished so you can see my current state for this app. But I’m already very proud of the work I've put in thus far. This is the most consistent I’ve been with coding since my Lambda School days, and my current streak surpassed all streaks set when I was enrolled in 2019.
 
 Some of the biggest challenges with what I’ve finished though would have to relate to the user system and character creation setup. I leaned **HEAVILY** on online resources and examples from other apps but got the job done. One thing that’s constantly tripping me up is the type system. Working with types in Typescript vs types in PHP throws me for a loop every time. They are pretty different in terms of how types are implemented and while Typescript is more strict and unforgiving, PHP is a bit looser, has type juggling, and is written differently for the most part (EX: Typescript uses type interfaces and PHP only uses them in certain contexts).
 
-This brings me back to a hurdle I’ve mentioned in my past posts: the annoying action of context switching. I’d love to focus on Typescript and Svelte for work and my personal projects, but the world isn’t my oyster, so I gotta do what I gotta do to pay the bills 💸.
+This brings me back to a hurdle I’ve mentioned in my past posts: the annoying action of context-switching. I’d love to focus on Typescript and Svelte for work and my personal projects, but the world isn’t my oyster, so I gotta do what I gotta do to pay the bills 💸.
 
 For example, here is how I have the CreatureStats type interface set up in TS:
 
@@ -294,7 +294,6 @@ The key differences between TS and PHP when it comes to types:
 * **Interfaces**: TypeScript interfaces are purely structural, while PHP interfaces are more rigid and require explicit implementation.
     
 
-  
 However, the daily work and consistency are helping alleviate the struggle with context switching, so I just have to keep up the hustle.
 
 ## Oh, You Want a Lil Preview???
