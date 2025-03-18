@@ -43,7 +43,7 @@ Lo and behold, I’ve reached a major milestone, but am far from finished. In th
     **\- CodeRabbit** ***(Temporary; Experimenting with it.)***
     
 
-Let’s get started with the **Features!**
+As always you can peep the code on the repo here → [https://github.com/kdleonard93/creatures-of-habit](https://github.com/kdleonard93/creatures-of-habit). Let’s get started with the **Features!**
 
 ## Small but Mighty Upgrades
 
