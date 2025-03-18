@@ -45,7 +45,7 @@ Lo and behold, I’ve reached a major milestone, but am far from finished. In th
 
 As always you can peep the code on the repo here → [https://github.com/kdleonard93/creatures-of-habit](https://github.com/kdleonard93/creatures-of-habit). Let’s get started with the **Features!**
 
-## Small but Mighty Upgrades
+## 🔮 Significant Features + Upgrades
 
 Everything in my feature setup seems like it might be a small portion of the grand scope of the project but let me tell ya, that wasn’t the case.
 
