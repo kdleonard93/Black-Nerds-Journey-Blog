@@ -1,10 +1,10 @@
 ---
-title: "Creatures of Habit: Devlog Chronicles"
+title: "Creatures of Habit: Devlog Chronicles - Part 1"
 seoTitle: "Creatures of Habit: Devlog Chronicles - New Features & Code Wins"
 seoDescription: "Jump into my latest dev progress adding XP systems, custom notifications, and analytics to my habit tracking RPG app built with Svelte 5 and TypeScript."
 datePublished: Tue Mar 18 2025 01:26:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm8dtceee000008jsc83e4wkj
-slug: creatures-of-habit-devlog-chronicles
+slug: creatures-of-habit-devlog-chronicles-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741748950386/6c782483-593f-4ad5-aa96-e29ec2cb0818.png
 tags: web-development, typescript, habits, svelte, drizzleorm, turso
 
