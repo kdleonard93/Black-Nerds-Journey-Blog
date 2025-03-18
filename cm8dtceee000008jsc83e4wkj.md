@@ -1,6 +1,6 @@
 ---
 title: "Creatures of Habit: Devlog Chronicles - Part 1"
-seoTitle: "Creatures of Habit: Devlog Chronicles - New Features & Code Wins"
+seoTitle: "Creatures of Habit: Devlog Chronicles - New Features & QOL Improvement"
 seoDescription: "Jump into my latest dev progress adding XP systems, custom notifications, and analytics to my habit tracking RPG app built with Svelte 5 and TypeScript."
 datePublished: Tue Mar 18 2025 01:26:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm8dtceee000008jsc83e4wkj
