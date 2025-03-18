@@ -1,5 +1,5 @@
 ---
-title: "Creatures of Habit: Devlog Chronicles"
+title: "Creatures of Habit: Devlog Chronicles - Prelude"
 seoTitle: "Creatures of Habit: Coding Challenges & Progress Check"
 seoDescription: "Building 'Creatures of Habit', a habit-tracking RPG app. Tackling coding challenges, TypeScript vs PHP, and a 24-day streak. Follow my journey and progress."
 datePublished: Fri Jan 24 2025 14:14:33 GMT+0000 (Coordinated Universal Time)
