@@ -12,9 +12,9 @@ tags: tdd, javascript, ux, web-development, typescript, svelte, ci-cd
 
 ## **Refining the Foundation and Gearing Up +1**
 
-As you can see from the new terrain in this cover image vs the last article’s, we’ve made it out of the “Wacced out Woods” and have arrived at “Finessin’ Fields”. Time to gear up ✊🏾.
+As you can see from the new terrain in this cover image vs the last article's, we've made it out of the "Wacced out Woods" and have arrived at "Finessin' Fields". Time to gear up ✊🏾.
 
-Over the last couple of months, I’ve been working on improving the quality of the code and my testing implementation. I also needed to get a workflow set for automation since this is turning into a pretty big codebase. I never knew how much would need to go into an app like this…..or this is just a lesson on choosing a more fitting tech stack next time lol.
+Over the last couple of months, I've been working on improving the quality of the code and my testing implementation. I also needed to get a workflow set for automation since this is turning into a pretty big codebase. I never knew how much would need to go into an app like this…..or this is just a lesson on choosing a more fitting tech stack next time lol.
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlqdWN0YjR1d3BsN3l4cm5kanJ2NnV6NGs0bnlhYTFuMHZobDFnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ogb8RQdu8zQyc/giphy.gif align="center")
 
@@ -108,9 +108,9 @@ To standardize my testing approach, I created reusable testing templates for dif
 
 These templates include best practices, common test patterns, and examples that make it much easier to write consistent, high-quality tests. No more staring at a blank file wondering how to structure a test!
 
-### **TypeScript Import Fixes**
+### **TypeScript Fun & Import Fixes**
 
-I ran into an annoying issue with TypeScript not recognizing Svelte component imports in test files. The error was driving me crazy:
+I ran into an annoying issue with TypeScript not recognizing Svelte component imports in test files. Here’s the error:
 
 ```bash
 Cannot find module '$lib/components/habits/HabitForm.svelte' or its corresponding type declarations
@@ -188,7 +188,7 @@ declare module '$lib/server/db' {
 }
 ```
 
-I think there is an update being proposed that should make the components accessible from the server file of the page you want the component on, which in term should work for the importing themm into the tests files without having to make this file.
+I think there is an update being proposed that should make the components accessible from server files, making imports in test files much simpler.
 
 ## **📊 User Experience Enhancements**
 
@@ -257,7 +257,7 @@ The continuous integration workflow now includes:
 4. Build verification
     
 
-So now I have a pretty decent set of tests that need to pass before the PR is merged into `master`. The CI workflow runs on GitHub Actions and prevents merging code that doesn't meet the quality standards.
+So now I have a pretty [decent set of tests](https://www.loom.com/i/fa6e8b856df047549c8aa88fa1662a0f) that need to pass before the PR is merged into `master`. The CI workflow runs on GitHub Actions and prevents merging code that doesn't meet the quality standards.
 
 ### **Pre-commit & Pre-push Hooks**
 
@@ -278,14 +278,14 @@ This multi-layered approach to quality assurance has already prevented several b
 
 While I've made significant progress on the engineering practices and user experience, there's still plenty on the roadmap:
 
-1. **Complete the XP System**: Finish implementing the experience points system so it actually affects character progression and fix the stat math during creature creation.
+1. **Complete the XP System**: Implement experience points for character progression and refine creature creation statistics.
     
-2. **Enhance Dashboard Visualizations**: Add more data visualizations for habit streaks and long-term progress and fix the progress bar so that it shows the accurate data of completed habits vs total habits created.
+2. **Enhance Dashboard Visualizations**: Add streak tracking and long-term progress visualizations, plus fix habit completion data accuracy.
     
-3. **Offline Support Research**: If this will ever be ported into a phone app, I would need to Implement offline capabilities so users can track habits without an internet connection. So research needs to be done for that (possible) implementation.
+3. **Offline Support Research**: Investigate offline capabilities for potential mobile app development.
     
 
-The journey continues, and with these improved development practices in place, I'm confident that future features will be implemented more efficiently and with higher quality. Stay tuned for what's next on deck 🤘🏾.
+With our improved development practices in place, we're well-positioned to implement new features efficiently and maintain high quality standards….well that’s he hope at least 😉. Stay tuned for what's next on deck 🤘🏾.
 
 #### **If you want to keep up with my work or want to connect as peers, check out my social links below and give me a follow!**
 
