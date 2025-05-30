@@ -5,7 +5,7 @@ seoDescription: "Embracing TDD, Elevating the UX & Developing CI Workflow System
 datePublished: Wed May 28 2025 02:58:08 GMT+0000 (Coordinated Universal Time)
 cuid: cmb7cv5y2000209juhoo3a7cx
 slug: creatures-of-habit-devlog-chronicles-part-2
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748394667777/d062a1ee-974d-4046-9c26-c5acc6fe7751.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748635382254/a7ab8ed8-198f-42c4-ba1f-2c2c5c327084.png
 tags: tdd, javascript, ux, web-development, typescript, svelte, ci-cd
 
 ---
