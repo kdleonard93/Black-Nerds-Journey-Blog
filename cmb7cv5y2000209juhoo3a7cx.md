@@ -272,7 +272,7 @@ To catch issues before they even reach the repository, I've set up pre-commit ho
 
 And a pre-push hook that ensures the project builds successfully before pushing code.
 
-This multi-layered approach to quality assurance has already prevented several bugs from making it into the codebase and has made the development process more robust. I picked this up at my current company and it been extremely helpful in catching errors as I continue working on the app.
+This multi-layered approach to quality assurance has already prevented several bugs from entering the codebase and has made the development process more robust. I’ve gained most of my CI knowledge from the work being done at my current company, and it’s been extremely helpful in catching errors as I continue developing the app.
 
 ## **Quick Peek of What’s Ahead**
 
