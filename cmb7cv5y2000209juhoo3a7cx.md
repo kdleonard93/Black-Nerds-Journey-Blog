@@ -234,7 +234,7 @@ The quick-complete buttons use the existing success variant in the Button compon
 
 I've switched from ESLint to Biome for code quality checks. Biome is faster, more integrated, and provides both linting and formatting in a single tool. The configuration is simpler, and it plays nicely with the rest of my toolchain. I also can’t help myself when I see newer tools get a bunch of praise.
 
-Setting up Biome was straightforward:
+Setting up Biome was straightforward. Example:
 
 ```json
 // package.json scripts
