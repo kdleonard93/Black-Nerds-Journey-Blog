@@ -99,11 +99,11 @@ Then I implemented the component with just enough code to make the test pass:
 
 To standardize my testing approach, I created reusable testing templates for different types of components:
 
-* **UIComponentTest**: For Svelte UI components
+* **UIComponentTest**: For Svelte UI components.
     
-* **APIEndpointTest**: For API endpoints and server routes
+* **APIEndpointTest**: For API endpoints and server routes.
     
-* **UtilityTest**: For utility functions and helpers
+* **UtilityTest**: For utility functions and helpers.
     
 
 These templates include best practices, common test patterns, and examples that make it much easier to write consistent, high-quality tests. No more staring at a blank file wondering how to structure a test!
