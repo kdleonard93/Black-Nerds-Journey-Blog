@@ -22,7 +22,7 @@ With that said, I’m going to cover the following in this article:
 
 * An overview of the code that has been committed.
     
-* Background around the LLC and Trademark decision
+* Background on the LLC and Trademark decision
     
 * Other project ideas that sprouted from the conversations I’ve had. None of which I’ll be starting before getting this app to a good spot.
     
